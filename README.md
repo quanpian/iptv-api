@@ -5,6 +5,8 @@
 
 📺IPTV直播源自动更新平台，『🤖全自动采集、筛选、测速、生成流程🚀』，支持丰富的个性化配置，将结果地址输入播放器即可观看
 
+https://raw.githubusercontent.com/quanpian/iptv-api/refs/heads/master/output/Music.json
+
 <p align="center">
   <br>
   <a href="https://trendshift.io/repositories/12327" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12327" alt="Guovin%2Fiptv-api | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
